@@ -1,0 +1,3 @@
+mood_rate: 10
+
+my_thoughts: It was a good day. Did some codings on Python

@@ -1,0 +1,7 @@
+watch movie
+play football
+play chess
+read a book
+wash a car
+buy gasoline
+practice python
